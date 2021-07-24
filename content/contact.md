@@ -8,4 +8,4 @@ author = "Rachel Gloer"
 
 If you would like to set up an appointment, or have any questions please contact me.
 
-Email: rachelegloer@gmail.com
+Email: gloertutoring@gmail.com
