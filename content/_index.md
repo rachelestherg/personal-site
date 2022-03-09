@@ -1,9 +1,7 @@
 # Private Tutoring
-I tutor in the following subjects:
+I tutor students ages 14 and up (including adults) in programming fundamentals. 
 
-- Algebra
-- Calculus
-- Programming
+The first session for every client is **free**. Every session after that is $50.
 
 I am only offering online sessions.
 

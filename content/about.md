@@ -1,21 +1,17 @@
 +++
 title = "About"
 description = "Tutoring"
-date = "2019-02-28"
+date = "2022-03-08"
 aliases = ["about"]
 author = "Rachel Gloer"
 +++
 
-Hi there - I'm Rachel! 
+Hi! I'm Rachel, it's nice to meet you :)
 
-I'm a Computer Science teacher who introduces Python to high school students. Prior to teaching, I worked as a software engineer for a multi-national corporation.  
+I currently am a middle and high school Computer Science teacher who is passionate about helping my students gain a lifelong interest in programming. In addition to teaching, I enjoy tutoring those that may not have access to a Computer Science class. When beginning to program, it is important to have someone who will help guide you, avoid burn-out, and point out gaps in understanding. At the moment, I am offering tutoring services to those of high school age, as well as adults. 
 
-I graduated in 2018 from UNC-Chapel Hill with a double major in Computer Science and Mathematics. While at Carolina, I worked as an undergraduate Teaching Assistant, teaching and tutoring introductory computer science courses. Over those two years as a TA, I worked primarily with Python. I loved working one-on-one with students who needed extra help with programming fundamentals, and I would love to help you!
+My interest in teaching began in college. I had the opportunity to work as a Teaching Assistant for a few computer science courses. I found that I loved working one-on-one with students who needed extra help with programming fundamentals. After graduating with a double major in Computer Science and Mathematics, I went into software engineering. Although it was interesting work, I felt that I was missing something that was very important to me - fulfillment. I looked back on how I really enjoyed my time as a TA, and decided to pivot my career path and pursue teaching.
 
-Because of my Mathematics major and prior experience with tutoring Calculus, I can also help you with homework or test prep in various math courses. My tutoring offerings range from Algebra up to Calculus.
+Whether you are just about to take your first programming class, or just want to learn how to program for fun, I would love to help you. I am currently only offering individual online tutoring over zoom.
 
-I'm here to help. Let me know what you have in mind!
-
-Looking forward to hearing from you,
-
-Rachel
+Looking forward to hearing from you!

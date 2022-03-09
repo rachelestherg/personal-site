@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Contact Me"
-date = "2019-02-28"
+date = "2022-03-08"
 aliases = ["contact-me"]
 author = "Rachel Gloer"
 +++
