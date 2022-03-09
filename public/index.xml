@@ -9,19 +9,19 @@
     <item>
       <title>About</title>
       <link>https://example.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/about/</guid>
       
-        <description>Hi there - I&amp;rsquo;m Rachel!
-I&amp;rsquo;m a Computer Science teacher who introduces Python to high school students.</description>
+        <description>Hi! I&amp;rsquo;m Rachel, it&amp;rsquo;s nice to meet you :)
+I currently am a middle and high school computer science teacher who is passionate about helping my students gain a lifelong interest in programming.</description>
       
     </item>
     
     <item>
       <title>Contact</title>
       <link>https://example.com/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/contact/</guid>
       
